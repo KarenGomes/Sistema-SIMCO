@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background-color: #EEE;
+	color: #222831;
+}
+
+a {
+	text-decoration: none;
+	color:  #EEE;
+}
+
+form {
+	
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	align-items: center;
+	padding-top: 2rem;
+	justify-content: center;
+}
+
+#form-problema {
+	gap: 0.1rem;
+}
+
+	
+button {
+    background-color: rgba(68, 71, 77, 0.75);
+    color: #EEE;
+    padding: 10px 32px;
+    gap: 10px;
+    border: none;
+    border-radius: 24px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+button:hover, #cadastrar:hover, #consultar:hover{
+	background-color: #222831;
+}
+
+#cadastrar, #consultar{
+	background-color: rgba(68, 71, 77, 0.75);
+    color: #EEE;
+    border: none;
+    padding: 10px 32px;
+    gap: 10px;
+    border-radius: 24px;
+    transition: .4s;
+}
