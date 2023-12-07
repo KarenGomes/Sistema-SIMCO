@@ -5,15 +5,13 @@
 
 ## Funcionalidades do sistema
 
- Cadastrar computadores
+ - Cadastrar computadores
 
 - Cadastrar usuários
 
 - Cadastrar problemas observados nos computadores
 
-- Gerar os seguintes relatórios:
-
-Todos os hardwares de todos os laboratórios;
+- Gerar os seguintes relatórios: Todos os hardwares de todos os laboratórios;
 Todos os softwares de todos os laboratórios;
 Os hardwares instalados em um determinado laboratório;
 Os softwares instalados em um determinado laboratório;
